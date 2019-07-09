@@ -1,8 +1,8 @@
-package CWK4;
 
-import java.awt.*;
 import javax.swing.*;
-import java.util.*;
+import java.awt.*;
+import java.util.Iterator;
+import java.util.Random;
 
 /**
  *

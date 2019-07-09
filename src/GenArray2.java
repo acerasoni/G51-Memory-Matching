@@ -1,4 +1,3 @@
-package CWK4;
 
 import java.util.Iterator;
 
@@ -46,7 +45,7 @@ public class GenArray2<T> implements Iterable<T> {
 		for (int i = 0; i < 5; i++)
 			array2.set(i, "Hello" + i);
 
-		// Don’t care what type of iterator it is…
+		// Donï¿½t care what type of iterator it isï¿½
 		Iterator<String> it = array2.iterator();
 		while (it.hasNext())
 			System.out.println("" + it.next());
